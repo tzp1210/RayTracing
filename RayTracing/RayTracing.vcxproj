@@ -50,7 +50,10 @@
     <ClInclude Include="World.h" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="display0.1.JPG" />
+    <Image Include="..\sample.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{140F8602-F44C-41D7-93C8-6AC052B581AD}</ProjectGuid>
