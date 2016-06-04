@@ -9,7 +9,7 @@ Currently, this program support several functions:
 
 
 
-In the further versions of this program, these functions will be added in the future:
+In the further versions of this program, these functions will be added:
 * Modify class Light to enable several kinds of lighting model
-* Make the program can load models from files
+* load models from files
 * Further beautify the rendering results
